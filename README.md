@@ -7,7 +7,8 @@ Este programa en C++ permite calcular el Impuesto Sobre la Renta (ISR) mensual p
 ### Escenarios de Ejecución
 
 *1. Escenario Exento (Sueldo bajo):
-![Captura 1](Exento.png)
+![<img width="1345" height="730" alt="image" src="https://github.com/user-attachments/assets/2f0d9068-36e2-442a-8d8c-6ca937359ab5" />
+](Exento.png)
 
 **2. Escenario con ISR aplicado:**
 ![Captura 2](ISR aplicado.png)
